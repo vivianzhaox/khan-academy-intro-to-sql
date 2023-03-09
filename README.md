@@ -1,1 +1,2 @@
-# khan-academy-intro-to-sql
+# Khan Academy - Intro To SQL
+
